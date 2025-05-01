@@ -1,0 +1,302 @@
+[
+  {
+    "question": "¿Cuál es la importancia de los artículos del Capítulo II de los Derechos Sociales y Económicos en la Constitución de 1993 de Perú?",
+    "ground_truth": "El Capítulo II de los Derechos Sociales y Económicos en la Constitución de 1993 de Perú establece los derechos y deberes relacionados con la protección social y económica de los ciudadanos. Estos derechos incluyen el derecho a la vida, la integridad física y moral, la salud, la seguridad social, el trabajo, la educación y la cultura, entre otros. Estos artículos son fundamentales para garantizar una vida digna y justa para todos los ciudadanos, y para promover la igualdad y la no discriminación. Además, estos derechos establecen una serie de deberes y obligaciones para el Estado y la sociedad en su conjunto, como la provisión de servicios públicos y la promoción del desarrollo económico y social. En resumen, los artículos del Capítulo II de los Derechos Sociales y Económicos son esenciales para garantizar el bienestar y la calidad de vida de los ciudadanos y para promover la justicia social en Perú.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la importancia de la obligación estatal de cumplir y hacer cumplir las sentencias y resoluciones de los órganos jurisdiccionales, según el artículo 9 de la Constitución peruana de 1993?",
+    "ground_truth": "La obligación estatal de cumplir y hacer cumplir las sentencias y resoluciones de los órganos jurisdiccionales, según el artículo 9 de la Constitución peruana de 1993, es fundamental para garantizar el Estado de Derecho y la protección de los derechos fundamentales de los ciudadanos. Esto implica que las autoridades estatales, en todos sus niveles y poderes, están en la obligación de acatar y ejecutar las decisiones judiciales, lo que a su vez promueve la confianza en el sistema de justicia, la seguridad jurídica y la vigencia efectiva de los derechos y garantías constitucionales.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el propósito de la subvención establecida en la Constitución peruana de 1993 para garantizar la pluralidad de la oferta educativa y apoyar a aquellos que no pueden costear su educación?",
+    "ground_truth": "El propósito de la subvención establecida en la Constitución peruana de 1993 es garantizar la igualdad de oportunidades en el ámbito educativo, promoviendo así la pluralidad de la oferta educativa y brindando apoyo a aquellas personas que no cuentan con los recursos económicos suficientes para costear su educación. Esto se enmarca en el respeto a los derechos humanos y la garantía de una educación de calidad para todos, fortaleciendo el desarrollo integral de la sociedad.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuáles son los principios fundamentales de la descentralización según los artículos 188 al 199 de la Constitución peruana de 1993?",
+    "ground_truth": "Los principios fundamentales de la descentralización según los artículos 188 al 199 de la Constitución peruana de 1993 incluyen la autonomía de las entidades territoriales descentralizadas, la elección democrática de sus autoridades, la transferencia de competencias y recursos del Gobierno Nacional a los gobiernos regionales y locales, la coordinación entre los diferentes niveles de gobierno, la participación ciudadana en los asuntos públicos locales y regionales, y la solidaridad y cooperación entre las entidades territoriales descentralizadas y el Gobierno Nacional.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuáles son las funciones y atribuciones específicas del Consejo Regional como órgano normativo y fiscalizador en el marco de la Constitución de 1993 de Perú?",
+    "ground_truth": "El Consejo Regional, como órgano normativo y fiscalizador en el marco de la Constitución de 1993 de Perú, tiene las siguientes funciones y atribuciones específicas: 1) Promulgar y ejecutar normas regionales en concordancia con la Constitución y la ley, así como normar y regular lo relativo a su régimen jurídico y administrativo interno (Constitución Política del Perú 1993 - Capítulo XI, Artículo 192.1); 2) Fiscalizar la gestión de la administración regional y sus entidades, así como los organismos que reciban aportes o realicen transferencias de recursos de la región (Constitución Política del Perú 1993 - Capítulo XI, Artículo 192.2); 3) Aprobar el presupuesto regional y velar por su cumplimiento (Constitución Política del Perú 1993 - Capítulo XI, Artículo 192.3); 4) Designar y remover al gerente general y a los gerentes regionales (Constitución Política del Perú 1993 - Capítulo XI, Artículo 192.4); 5) Las demás que le confieren la Constitución y las leyes (Constitución Política del Perú 1993 - Capítulo XI, Artículo 192.5).",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Podrías detallar el proceso de aprobación de tratados internacionales en el marco de la Constitución peruana?",
+    "ground_truth": "El proceso de aprobación de tratados internacionales en el Perú se rige por la Constitución Política de 1993. De acuerdo con el artículo 55 de la Carta Magna, los tratados internacionales son ley de la República una vez publicados en el diario oficial El Peruano. Sin embargo, antes de su publicación, los tratados deben ser aprobados por el Congreso de la República, según lo establecido en el artículo 56. Este artículo también señala que los tratados que impliquen modificaciones a la Constitución deben ser aprobados por el Congreso y luego sometidos a referéndum popular para su ratificación. Por lo tanto, el proceso de aprobación de tratados internacionales en el Perú implica su aprobación por el Congreso y su publicación en el diario oficial, y en algunos casos, su ratificación mediante referéndum.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el alcance del derecho a la protección de la salud establecido en el Artículo 7 de la Constitución Política del Perú?",
+    "ground_truth": "El Artículo 7 de la Constitución Política del Perú establece que toda persona tiene derecho a la protección de su salud, la cual es responsabilidad del Estado, que debe garantizar la prestación de servicios de salud de calidad y la distribución equitativa de estos servicios en todo el territorio nacional. Además, el Estado promueve la educación, la investigación y la prevención en salud pública. Este derecho incluye el acceso a los servicios de salud mental y a los servicios de atención y rehabilitación de las personas con discapacidad. El Estado también garantiza la confidencialidad y el derecho a la información en materia de salud.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Podrías explicar en qué circunstancias una norma queda sin efecto, según el artículo 204 de la Constitución Política del Perú?",
+    "ground_truth": "De acuerdo con el artículo 204 de la Constitución Política del Perú, una norma queda sin efecto en los siguientes casos: (1) si es contraria a la Constitución, debe ser declarada nula por el Tribunal Constitucional; y (2) si es derogada expresamente por otra norma legal posterior, en cuyo caso la derogación se produce desde la fecha de publicación de la norma derogatoria.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el alcance del espacio aéreo peruano según la Constitución de 1993?",
+    "ground_truth": "El espacio aéreo peruano comprende el que se extiende sobre el territorio nacional y el mar territorial, de acuerdo con la legislación sobre la materia y los tratados internacionales ratificados por el Perú. La defensa y preservación de su integridad es una responsabilidad del Estado. (Constitución Política del Perú 1993 - Capítulo 2, Artículo 57)",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el rol de la Contraloría General de la República en la supervisión y control de los gobiernos regionales y locales?",
+    "ground_truth": "La Contraloría General de la República es el órgano superior del sistema nacional de control y tiene como función fiscalizar y controlar la gestión económica, financiera, operativa y presupuestal de los gobiernos regionales y locales, con el fin de garantizar la legalidad, transparencia, eficacia y economía en el uso de los recursos públicos, así como promover la buena gestión y la integridad pública. Además, tiene la facultad de ejercer acciones preventivas y de control posterior, y sancionar las irregularidades y faltas administrativas cometidas por los servidores públicos de estos gobiernos.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "En detalle, ¿qué implica la administración de bienes y rentas por parte de los municipios?",
+    "ground_truth": "La administración de bienes y rentas por parte de los municipios en el Perú, según la Constitución Política de 1993, se refiere a la gestión y manejo de los bienes y recursos económicos que estos gobiernos locales tienen a su cargo. Estos bienes y rentas pueden ser propios, de dominio público o privado, y se utilizan para el desarrollo y prestación de servicios en su jurisdicción. Los municipios están facultados para administrar estos bienes y rentas de acuerdo con la ley, con el fin de promover el bienestar de la comunidad y garantizar el ejercicio de los derechos de la ciudadanía en su territorio. (Constitución Política del Perú 1993 - Capítulo X, Artículo 191)",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuáles son las condiciones para que un individuo pueda entrar y permanecer en un lugar, exceptuando restricciones por motivos de salud, orden judicial o aplicación de la ley de extranjería, según el artículo 12 de la Constitución Política del Perú?",
+    "ground_truth": "De acuerdo con el artículo 12 de la Constitución Política del Perú, toda persona tiene derecho a circular libremente por el territorio nacional, entrar y salir del mismo, y permanecer en él, sin más limitaciones que las previstas por la ley. Estas limitaciones estarían justificadas en casos excepcionales como motivos de salud, orden judicial o aplicación de la ley de extranjería.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la autonomía de las comunidades campesinas y nativas en términos organizacionales, trabajo comunitario y manejo de tierras?",
+    "ground_truth": "Las comunidades campesinas y nativas en el Perú, de acuerdo con la Constitución Política de 1993, tienen autonomía en términos organizacionales, trabajo comunitario y manejo de tierras. Este derecho se encuentra establecido en el artículo 89 de la Constitución, el cual establece que las comunidades campesinas y nativas tienen personalidad jurídica de derecho público y gozan de autonomía en lo económico, social y administrativo, de acuerdo con sus normas y tradiciones, dentro de la unidad nacional. Además, tienen derecho al trabajo comunitario y al manejo de sus tierras de acuerdo con sus usos y costumbres, siempre y cuando no sean contrarias a la Constitución y a las leyes. Por lo tanto, las comunidades campesinas y nativas tienen el derecho de autogestionarse y manejar sus propios asuntos de acuerdo con sus normas y tradiciones ancestrales, lo que les permite preservar su identidad cultural y sus formas de vida comunitarias.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la misión primordial de la Policía Nacional según el Artículo 166 de la Constitución peruana de 1993?",
+    "ground_truth": "La Policía Nacional del Perú tiene por misión primordial garantizar el orden interno, la tranquilidad y la seguridad públicos, prestando servicios de policía administrativa y judicial en todo el territorio de la República, bajo la dirección del Ministerio del Interior, de acuerdo con la ley.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la mayoría absoluta requerida en el Congreso para la aprobación de una reforma constitucional según el Artículo 206?",
+    "ground_truth": "Para la aprobación de una reforma constitucional en el Congreso se requiere de la mayoría absoluta, es decir, dos tercios del número legal de congresistas. (Artículo 206, Capítulo XIV, Título V de la Constitución Política del Perú 1993).",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "Compárese el cargo de Fiscal de la Nación con los del Poder Judicial en términos de derechos y obligaciones.",
+    "ground_truth": "El cargo de Fiscal de la Nación y los miembros del Poder Judicial tienen diferentes derechos y obligaciones, aunque ambos forman parte del sistema de justicia peruano y desempeñan roles cruciales en la administración de justicia y la protección de los derechos fundamentales.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Qué significa que el derecho de propiedad sea inviolable según el Artículo 70?",
+    "ground_truth": "Según el Artículo 70 de la Constitución Política del Perú 1993, el derecho de propiedad es inviolable y no puede ser violado por ninguna autoridad o particulares. Esto significa que el Estado está obligado a respetar y garantizar este derecho, así como también a sancionar a quienes lo vulneren. Además, el artículo establece que la propiedad puede ser limitada únicamente por ley, por razones de interés social y siempre que se garantice una justa indemnización.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Por qué los derechos reconocidos por la Constitución y la ley en el ámbito laboral son irrenunciables?",
+    "ground_truth": "Los derechos reconocidos por la Constitución y la ley en el ámbito laboral son irrenunciables porque el trabajo es una función social y un derecho de la persona, que se ejerce en forma libre y por cuenta propia o ajena. El Estado lo protege y promueve, y garantiza la libre sindicalización y la negociación colectiva. Los derechos laborales tienen como finalidad la protección y seguridad del trabajador, por lo que no pueden ser cedidos o abandonados, ya que forman parte de los derechos fundamentales de la persona humana. (Constitución Política del Perú 1993 - Capítulo II, Artículos 25, 26 y 28).",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuáles son las responsabilidades establecidas para los funcionarios y servidores públicos en la Constitución peruana de 1993?",
+    "ground_truth": "Los funcionarios y servidores públicos en el Perú, de acuerdo con la Constitución Política de 1993, están sujetos a una serie de responsabilidades y deberes éticos y legales. Entre las responsabilidades más relevantes se encuentran las siguientes: 1) Cumplir y hacer cumplir la Constitución, los tratados internacionales de derechos humanos y los demás actos legales. (Artículo 118, numeral 1). 2) Actuar con honestidad, imparcialidad, lealtad y eficiencia en el ejercicio de sus funciones (Artículo 118, numeral 2). 3) No utilizar su cargo para fines personales o particulares, ni obtener beneficios indebidos para sí o para terceros (Artículo 118, numeral 3). 4) Presentar su declaración jurada de intereses, patrimonio y rentas, así como su declaración jurada de bienes y rentas, en los casos y plazos que determine la ley (Artículo 118, numeral 4). 5) Informar a la ciudadanía sobre sus actos y decisiones, y garantizar el acceso a la información pública (Artículo 118, numeral 10). 6) Someterse a las sanciones que establezca la ley en caso de incumplimiento de sus deberes o responsabilidades (Artículo 118, numeral 13). 7) Respetar los derechos humanos y garantizar su efectividad (Artículo 2, numeral 2). 8) Promover la igualdad y la no discriminación (Artículo 2, numeral 3). 9) Velar por el interés general y no por intereses particulares o sectoriales (Artículo 3). 10) Procurar la eficiencia y eficacia en la gestión pública (Artículo 3).",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "Explica cómo el régimen internacional de la Antártida preserva la región como área dedicada a la investigación científica, según la Constitución peruana de 1993.",
+    "ground_truth": "El Perú, como parte de la comunidad internacional, está sujeto a los tratados y acuerdos internacionales que haya suscrito, entre los que se encuentra el Tratado Antártico de 1959, el cual establece que la Antártida se destine exclusivamente a fines pacíficos y se utilice para el beneficio de toda la humanidad. Esto está en consonancia con los principios constitucionales peruanos, que en su artículo 56 establecen que 'El Estado promueve y respeta los compromisos internacionales de carácter político, económico, social y cultural que suscriba, de acuerdo con la Constitución', y en su artículo 57, que señala que 'Los tratados y acuerdos internacionales debidamente aprobados, publicados y que se encuentren en vigencia forman parte del ordenamiento jurídico interno'.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la importancia del derecho y deber de los vecinos a participar en el gobierno municipal de su jurisdicción?",
+    "ground_truth": "El derecho y deber de los vecinos a participar en el gobierno municipal de su jurisdicción es fundamental para la gobernabilidad y el desarrollo local, ya que permite la toma de decisiones conjunta y la promoción de políticas públicas que respondan a las necesidades y demandas de la comunidad. Además, fomenta la transparencia, la rendición de cuentas y la lucha contra la corrupción en el ejercicio de la función pública. Todo ello enmarcado en el respeto a los derechos y garantías constitucionales.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuáles son las causas que conducen a la vacancia de la Presidencia de la República, según el Artículo 113?",
+    "ground_truth": "La vacancia de la Presidencia de la República puede ser causada por: (1) la muerte del Presidente; (2) su renuncia aceptada por el Congreso; (3) su destitución, tras haber sido declarado su incapacidad moral o física permanente por el Congreso; (4) su ausencia del territorio nacional sin permiso del Congreso o sin haber delegado el mando, por más de treinta días consecutivos; y (5) la disolución del Congreso, de conformidad con el artículo 134 de la Constitución.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la jerarquía de los funcionarios y trabajadores públicos en el servicio a la Nación, comenzando por el Presidente de la República?",
+    "ground_truth": "La jerarquía de los funcionarios y trabajadores públicos en el servicio a la Nación, comenzando por el Presidente de la República, se establece de la siguiente manera: Presidente de la República, Vicepresidentes de la República, Congresistas de la República, Presidente del Consejo de Ministros, Ministros, Vice Ministros, Secretarios Generales, Secretarios de Estado, Directores Generales, Subdirectores, Jefes de Oficina, Oficiales Superiores, Oficiales, Suboficiales y Soldados. (Artículo 122 y 123 de la Constitución Política del Perú 1993).",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Qué implica el principio de \"no dejar de administrar justicia por vacío o deficiencia de la ley\"?",
+    "ground_truth": "El principio de 'no dejar de administrar justicia por vacío o deficiencia de la ley' implica que, en caso de lagunas o insuficiencias legales, las autoridades competentes deben aplicar los preceptos constitucionales y los principios generales del derecho para resolver los asuntos pendientes y garantizar el acceso a la justicia. Este principio está orientado a evitar la indefensión de los gobernados y asegurar el correcto funcionamiento del sistema jurídico.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿En qué instancias el acusado puede ejercer su derecho a la defensa, conforme al Artículo 98 de la Constitución Política del Perú?",
+    "ground_truth": "De acuerdo con el Artículo 98 de la Constitución Política del Perú, el acusado puede ejercer su derecho a la defensa en todas y cada una de las etapas del proceso penal, desde la etapa de investigación hasta la etapa de juicio. Esto incluye el derecho a ser asistido por un abogado, a presentar pruebas y a contradecir las pruebas presentadas por la acusación.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuáles son los principios respetados en la relación laboral según el Artículo 26 de la Constitución Política del Perú?",
+    "ground_truth": "De acuerdo con el Artículo 26 de la Constitución Política del Perú, la relación laboral se basa en el respeto recíproco entre el trabajador y el empleador, lo que implica el reconocimiento de los derechos y obligaciones de ambas partes. El artículo establece la libertad de trabajo, la igualdad de oportunidades y la no discriminación, el derecho a la remuneración justa, el principio de irrenunciabilidad de los derechos laborales y el respeto a la vida y a la integridad física y moral de los trabajadores.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál era el texto original de este artículo antes de su reforma, en el que se concedía a los ciudadanos el derecho a participar en los asuntos públicos?",
+    "ground_truth": "El artículo original establecía que 'Toda persona tiene derecho a participar en los asuntos públicos, directamente o por medio de sus representantes' (Constitución Política del Perú 1993 - Capítulo 1, Artículo 31, antes de su reforma).",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el origen y composición del Consejo Nacional de la Magistratura, según la Constitución Política del Perú de 1993?",
+    "ground_truth": "El Consejo Nacional de la Magistratura es un organismo constitucional autónomo encargado de nombrar y destituir a los jueces y fiscales del país, así como velar por la ética y disciplina de estos funcionarios. Está compuesto por siete miembros: tres magistrados elegidos por sus pares de entre los jueces superiores y fiscales supremos, dos miembros elegidos por el Congreso de la República y dos designados por el Poder Ejecutivo, uno de los cuales debe ser abogado de reconocida idoneidad y el otro, profesor universitario de Derecho con experiencia en docencia y en investigación.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el principio y derecho de la función jurisdiccional establecido en el artículo 139 de la Constitución Política del Perú?",
+    "ground_truth": "El artículo 139 de la Constitución Política del Perú establece que la función jurisdiccional es independiente y autónoma. Los jueces y tribunales conocen y deciden los conflictos y casos contenciosos en derecho, con total sujeción a la Constitución y a las leyes. Su jurisdicción se extiende a todas las personas y a todas las materias, salvo las reservadas por la Constitución a otros órganos.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "Detalla las obligaciones que tienen el Estado y la sociedad hacia la evaluación, capacitación, profesionalización y promoción permanentes de los directores y profesores.",
+    "ground_truth": "El Estado peruano, de acuerdo con la Constitución Política de 1993, tiene la obligación de garantizar el derecho a la educación y promover el mejoramiento continuo de la calidad educativa. En este sentido, el artículo 17 señala que el Estado debe fomentar la evaluación, capacitación, profesionalización y promoción permanentes de los directores y profesores, como agentes clave en el proceso educativo. Además, el artículo 14 establece que la sociedad debe cooperar con el Estado en el cumplimiento de sus fines, lo que incluye la responsabilidad compartida en el fortalecimiento de la calidad educativa y el desarrollo profesional de los educadores.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "Explique cómo la Constitución de 1993 aborda los factores que vinculan al Perú con la Antártida.",
+    "ground_truth": "La Constitución Política de Perú de 1993 no aborda directamente los factores que vinculan al Perú con la Antártida, ya que no existe una mención explícita sobre este tema en el texto constitucional. Sin embargo, el Perú es parte del Tratado Antártico desde 1981, el cual establece la cooperación internacional y la preservación de la Antártida como un continente para la paz y la ciencia. El país ha mantenido una participación activa en los asuntos antárticos, promoviendo la protección del medio ambiente y la investigación científica.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el rol del Presidente de la Corte Suprema en relación al Poder Judicial?",
+    "ground_truth": "El Presidente de la Corte Suprema es el máximo representante del Poder Judicial, encargado de su buen funcionamiento y administración. Dirige los órganos de gobierno interno y representa al Poder Judicial en sus relaciones con los demás poderes del Estado y con los órganos de gobierno. Además, tiene a su cargo la inspección y vigilancia de los demás órganos jurisdiccionales y la superintendencia directa de los juzgados y tribunales de la capital de la República. (Constitución Política del Perú 1993 - Capítulo VII, Artículo 149)",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la importancia de que la votación para elegir a los miembros adicionales sea secreta?",
+    "ground_truth": "La votación para elegir a los miembros adicionales debe ser secreta para garantizar el derecho al voto libre y la libertad de sufragio, lo que permite a los ciudadanos ejercer su derecho a voto sin influencia ni coacción, y con plena confidencialidad. Esto contribuye a la formación de una voluntad popular auténtica y a la consolidación del sistema democrático.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el estatus jurídico de las Comunidades Campesinas y Nativas, y en qué aspectos pueden ejercer su autonomía?",
+    "ground_truth": "Las Comunidades Campesinas y Nativas tienen reconocimiento constitucional como formas de organización social y económica, y gozan de personalidad jurídica y plena capacidad para adquirir y administrar bienes (Artículo 89). Estas comunidades tienen derecho a su autonomía en los aspectos cultural, social, económico y político, dentro del marco de la unidad nacional (Artículo 149). Pueden ejercer su autonomía en la gestión de sus recursos naturales, preservación de su patrimonio cultural, y en el desarrollo de sus actividades productivas y comerciales (Artículos 17, 61, 89 y 149).",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la organización y función del Consejo de Ministros, según el Artículo 122 de la Constitución Política del Perú?",
+    "ground_truth": "El Consejo de Ministros, según el Artículo 122 de la Constitución Política del Perú, es el órgano colegiado de dirección superior del Estado peruano. Está integrado por el Presidente del Consejo de Ministros y los ministros, quienes son responsables políticos del despacho de sus respectivos ministerios. Su función principal es definir, dirigir y ejecutar la política general del Gobierno, así como garantizar el cumplimiento de las leyes y la coordinación entre los diferentes sectores del Estado.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿En qué aspectos el Concejo Municipal, como órgano normativo y fiscalizador, desempeña un rol fundamental en la estructura orgánica del gobierno local?",
+    "ground_truth": "El Concejo Municipal, como órgano normativo y fiscalizador, desempeña un rol fundamental en la estructura orgánica del gobierno local en diversos aspectos, tales como la promulgación de ordenanzas y reglamentos que regulen asuntos de interés local, la aprobación de los planes de desarrollo y presupuestos municipales, y la fiscalización de la gestión del alcalde y los servicios públicos municipales. Todo ello en cumplimiento de los principios de descentralización, participación ciudadana y buen gobierno, promoviendo el desarrollo sostenible y la equidad social.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la única jurisdicción independiente, además de la militar y la arbitral, a la que se somete Perú según su constitución de 1993?",
+    "ground_truth": "Perú, según su Constitución Política de 1993, se somete a la jurisdicción de la Corte Internacional de Justicia en La Haya, además de las jurisdicciones militar y arbitral. Este tribunal es el principal órgano judicial de las Naciones Unidas. Su función principal es la solución de controversias entre Estados. (Artículo 56, Capítulo II, Título III, Constitución Política del Perú 1993).",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el alcance de las atribuciones del Poder Ejecutivo en la dirección de la política exterior y las relaciones internacionales, según el artículo 11 de la Constitución Política del Perú?",
+    "ground_truth": "De acuerdo con el artículo 11 de la Constitución Política del Perú, el Poder Ejecutivo tiene a su cargo la dirección de la política exterior y las relaciones internacionales del Estado. Esto implica que el Presidente de la República, como jefe del Poder Ejecutivo, es el encargado de definir y llevar a cabo la política exterior peruana, en coordinación con el Consejo de Ministros. Dicha política debe estar encaminada a la defensa de los intereses nacionales, la promoción de la paz, la cooperación internacional y el respeto a los principios y normas del derecho internacional.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "Explique cómo se garantiza la inviolabilidad del domicilio según el artículo 9 de la Constitución Política del Perú.",
+    "ground_truth": "De acuerdo con el artículo 9 de la Constitución Política del Perú, el domicilio goza de inviolabilidad. Ninguna persona puede ser obligada a mudar de domicilio sin una resolución judicial que así lo declare. Durante el día, el allanamiento del domicilio sólo puede ser ordenado por una autoridad judicial y en las formas que la ley establezca. De noche, sólo puede ser ordenado en caso de flagrante delito. En ambos casos, el allanamiento debe ser practicado en presencia de un testigo.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "Detalla las funciones y atribuciones de las municipalidades de los centros poblados, de acuerdo con la ley complementaria del artículo 194 de la Constitución peruana.",
+    "ground_truth": "De acuerdo con la Ley Complementaria a la Constitución Política del Perú, Ley N° 27972, las municipalidades de centros poblados tienen las siguientes funciones y atribuciones: (i) administrar los bienes de la comunidad; (ii) promover el desarrollo económico y social del centro poblado; (iii) mantener el orden interno y la seguridad ciudadana; (iv) prestar servicios públicos básicos; (v) promover la educación, la cultura y el deporte; (vi) fomentar la salud pública y el medio ambiente; y (vii) participar en la planificación y gestión de los recursos naturales y el ambiente, en el marco de las políticas y planes nacionales y regionales. Además, las municipalidades de centros poblados tienen la atribución de recaudar tributos y contribuciones locales, así como de celebrar convenios y acuerdos de cooperación con otras entidades públicas y privadas.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "Detalla los alcances de la incompatibilidad mencionada en el artículo 146 de la Constitución Política del Perú.",
+    "ground_truth": "El artículo 146 de la Constitución Política del Perú establece diversas incompatibilidades para el desempeño de cargos públicos. En particular, señala que los congresistas no pueden desempeñar simultáneamente cargos públicos remunerados, excepto en el ejercicio de la docencia universitaria, actividades de investigación científica o técnica, y funciones de dirección en entidades culturales, artisticas o de bienestar social sin remuneración. Esta disposición busca garantizar la independencia y el desempeño efectivo de los congresistas en sus funciones legislativas, evitando conflictos de intereses y garantizando la igualdad de oportunidades en el acceso a los cargos públicos.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el alcance de la fuerza vinculante en el ámbito de lo concertado, según el Artículo 28 de la Constitución Política del Perú?",
+    "ground_truth": "De acuerdo con el Artículo 28 de la Constitución Política del Perú, los actos y contratos de las personas tienen fuerza vinculante entre ellas. Esto significa que las partes que celebran un acuerdo o contrato están legalmente obligadas a cumplir con los términos y condiciones pactados, respetando así los derechos y obligaciones que emanan de dichos actos. La falta de cumplimiento de lo acordado puede dar lugar a responsabilidades y sanciones establecidas en la ley.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el propósito de la aplicación progresiva de topes a las pensiones que superen una Unidad Impositiva Tributaria?",
+    "ground_truth": "El propósito de la aplicación progresiva de topes a las pensiones que superen una Unidad Impositiva Tributaria es regular los excesos económicos y establecer un límite máximo a las pensiones, a fin de garantizar la equidad y justicia social, evitando que unas pocas personas perciban pensiones desproporcionadamente altas en comparación con el resto de la población. Esto se enmarca en el principio constitucional de la solidaridad social, que busca garantizar la igualdad de oportunidades y reducir las brechas sociales y económicas.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el interés del Estado en defensa de los consumidores y usuarios, según el Artículo 65?",
+    "ground_truth": "El Estado está interesado en asegurar la protección y defensa de los consumidores y usuarios, promoviendo su participación en la vida económica y social, así como la educación que les permita el ejercicio responsable de sus derechos y obligaciones. Esto con el fin de garantizar la calidad y seguridad de los productos y servicios que reciben.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la naturaleza de la libertad en el artículo 59 de la Constitución Política del Perú?",
+    "ground_truth": "El artículo 59 de la Constitución Política del Perú establece que la libertad es un derecho inviolable de la persona y consiste en poder hacer y no hacer, dentro de los límites de la ley, todo aquello que no afecte los derechos reconocidos y garantizados por la Constitución. Esto significa que la libertad está limitada por el respeto a los derechos de los demás y por la ley, la cual establece los límites para ejercer este derecho.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuáles son las atribuciones que le corresponden al Consejo de Ministros, según el artículo 125 de la Constitución Política del Perú?",
+    "ground_truth": "El Consejo de Ministros, según el artículo 125 de la Constitución Política del Perú, tiene las siguientes atribuciones: dirigir la política general del Gobierno; disponer de la administración general de la Nación; ejercer las funciones de coordinación, promoción y evaluación de las actividades de los sectores; proponer, supeditar a la aprobación del Congreso de la República y ejecutar la política exterior del Estado; y ejercer las demás atribuciones que le confiere la Constitución y las leyes.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el procedimiento para revocar el mandato de las autoridades regionales según la Constitución peruana de 1993?",
+    "ground_truth": "El procedimiento para revocar el mandato de las autoridades regionales en la Constitución peruana de 1993 se encuentra en el Capítulo XV del Título III, y se especifica en el artículo 192. Este artículo establece que el mandato de las autoridades regionales puede ser revocado mediante una consulta popular de carácter vinculante, siempre que el pedido sea suscrito por el diez por ciento de los electores inscritos en la región y se realice dentro del cuarto año de ejercicio del cargo. La ley orgánica electoral debe reglamentar los aspectos referentes a la convocatoria, realización y resultados de esta consulta.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es la composición y jerarquía de los órganos jurisdiccionales mencionados en el artículo 143 de la Constitución Política del Perú?",
+    "ground_truth": "De acuerdo con el artículo 143 de la Constitución Política del Perú, los órganos jurisdiccionales están compuestos por la Corte Suprema de Justicia, los tribunales superiores y los juzgados. La Corte Suprema es el máximo órgano de la jurisdicción en el país y está compuesta por 16 miembros elegidos por el Congreso. Los tribunales superiores son los segundos en la jerarquía y se encargan de conocer las apelaciones contra las decisiones de los juzgados. Por último, los juzgados son los órganos jurisdiccionales de primera instancia, donde se ventilan la mayoría de los procesos. La ley establece la competencia y organización de estos órganos.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuál es el grado de autonomía que posee la Defensoría del Pueblo según el artículo 161 de la Constitución Política del Perú?",
+    "ground_truth": "La Defensoría del Pueblo es un organismo autónomo e independiente que vela por la promoción, defensa y protección de los derechos humanos y las garantías fundamentales. Su autonomía se manifiesta en su capacidad de nombrar y remover a su Defensor, así como en su independencia funcional y presupuestal. Está bajo la tuición del Congreso y rinde cuentas a este por su gestión.",
+    "answer": "",
+    "contexts": []
+  },
+  {
+    "question": "¿Cuáles son las funciones de la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones en relación a las empresas que reciben ahorros del público?",
+    "ground_truth": "La Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones (SBS) tiene como función regular, vigilar y supervisar a las entidades financieras y aseguradoras, así como a las administradoras privadas de fondos de pensiones, con el objetivo de garantizar la solidez, transparencia y eficiencia del sistema financiero y asegurador peruano. En relación a las empresas que reciben ahorros del público, la SBS tiene la responsabilidad de velar por la protección de los intereses de los depositantes y asegurar la estabilidad y solvencia de las entidades financieras. Esto lo logra a través de la emisión de normas y reglamentos, la inspección y supervisión de las entidades financieras, y la sanción de aquellas que incumplan las normas establecidas. Además, la SBS promueve la inclusión financiera y el desarrollo del mercado de valores en el país.",
+    "answer": "",
+    "contexts": []
+  }
+]
